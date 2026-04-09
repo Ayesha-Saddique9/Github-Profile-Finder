@@ -6,7 +6,7 @@ A simple and powerful web app to search GitHub users and view their profile deta
 
 ## 🚀 **Live Demo**
 
-👉 *(https://ayesha-saddique9.github.io/Github-Profile-Finder/)*
+👉 *https://ayesha-saddique9.github.io/Github-Profile-Finder/*
 
 ---
 
