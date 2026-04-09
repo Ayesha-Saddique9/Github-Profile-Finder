@@ -3,14 +3,16 @@
     margin: 0;
 }
 body{
-    background-color: rgb(253, 253, 241);
+    /* background-color: rgb(253, 253, 241); */
+   background: linear-gradient(to right, #0f172a, #1e293b);
 }
 .github-finder{
     margin-top: 80px;
     margin-left: 500px;
 }
 .github-finder h1{
-    color: #1568BF;
+    margin-left: -15px;
+    color: #38bdf8;
 }
 #input-text{
     margin-left: -50px;
@@ -18,13 +20,12 @@ body{
     width: 330px;
     height: 33px;
     border-radius: 3px;
-    /* border: none; */
-    border-color: #0766D3;
+    border-color: #38bdf8;
     outline: none;
     padding-left: 15px;
 }
 #btn1{
-    background-color: #0766D3;
+    background-color: #38bdf8;
     margin-left: 06px;
     height: 35px;
     width: 70px;
@@ -37,14 +38,15 @@ body{
     margin-top: 30px;
     margin-left: -130px;
     width: 600px;
-    border: .0003px solid rgb(240, 238, 238);
+    border: 1px solid #38bdf8;
     height: 420px;
-    background-color: rgb(243, 243, 233);
+    background-color: #111827;
+color: #f1f5f9;
     border-radius: 13px;
     display: none;
 }
 #btn2{
-    background-color: #0766D3;
+    background-color: #38bdf8;
     margin-left: 250px;
     margin-top: 30px;
     height: 35px;
